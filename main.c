@@ -2,9 +2,10 @@
 #include <stdlib.h>
 
 int main()
-{
+{   int a;
     printf("Hello world!\n");
-    printf("alice");
-    printf("Enter your name:");
+    printf("alice\n");
+    printf("Enter your number:");
+    scanf("%d",&a);
     return 0;
 }
