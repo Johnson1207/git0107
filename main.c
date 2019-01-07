@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Hello world!\n\n");
     printf(:"Group3\n\n");
     printf("A1065145蔡孟軒\n");
 
